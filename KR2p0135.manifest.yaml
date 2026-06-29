@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR2p0135/v1
+canonical_location: https://kanripo.org/bkk/KR2p0135/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 江蘇揚州平山養殖場漢墓木楬
+  identifiers:
+    krp: KR2p0135
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0135.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR2p0135_001.yaml
+    hash: sha256:3c5ec1cbf78e0a0bedd24a3a4c33112f9282900e828cd600fc5bf2ce0ca3fdfa
+  markers:
+  - seq: 1
+    role: markers
+    filename: assets/KR2p0135_001.markers.yaml
+    hash: sha256:abff5b0d91d581ba75a5799e7f3da8d63351015061d6bcf87b6e3cc08f6f32cc
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0135_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 29
+  label: 散見簡牘合輯江蘇揚州平山養殖場漢墓木楬
+  type: section
+  level: 1
+hash: sha256:5e3d7ff0fcf89dab2988c2aef4bc3cf164a0d900caf8bd7b24c881d58ed7725c
