@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0135/v1
 canonical_location: https://kanripo.org/bkk/KR2p0135/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 江蘇揚州平山養殖場漢墓木楬
   identifiers:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 散見簡牘合輯江蘇揚州平山養殖場漢墓木楬
   type: section
   level: 1
-hash: sha256:5e3d7ff0fcf89dab2988c2aef4bc3cf164a0d900caf8bd7b24c881d58ed7725c
+hash: sha256:99f8a376d75bcf7069c43a289fe32cc1e11b524ebca3d3e8a53631ea97926d08
